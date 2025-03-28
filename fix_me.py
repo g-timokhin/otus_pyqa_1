@@ -1,4 +1,4 @@
-"""Module for calculating average"""
+"""Module for calculating average of numbers in a list"""
 
 
 def calculate_average(nums):
